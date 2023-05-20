@@ -26,7 +26,7 @@ I believe in the power of collaboration and open-source development. GitHub has 
 ## Connect with Me
 
 - **Email**: [your-email@example.com](mailto:your-vipranshverma385@gmail.com)
-- **LinkedIn**: [Your Name](https://www.linkedin.com/in/vipransh-verma)
-- **Portfolio**: [Your Portfolio](https://)
+- **LinkedIn**: [Vipransh](https://www.linkedin.com/in/vipransh-verma)
+- **Portfolio**: [Portfolio](https://)
 
 Let's connect and explore the possibilities of working together. Feel free to reach out with any questions or collaboration opportunities. Thank you for visiting my profile! 🌟
