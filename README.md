@@ -1,4 +1,4 @@
-# Hello, I'm [Vipransh Verma] 👋
+# Hello, I'm Vipransh Verma 👋
 
 Welcome to my GitHub profile! Here's a brief overview of my skills and the technologies I'm proficient in:
 
@@ -25,8 +25,8 @@ I believe in the power of collaboration and open-source development. GitHub has 
 
 ## Connect with Me
 
-- **Email**: [your-email@example.com](mailto:your-vipranshverma385@gmail.com)
+- **Email**: [vipranshverma385@gmail.com](mailto:your-vipranshverma385@gmail.com)
 - **LinkedIn**: [Vipransh](https://www.linkedin.com/in/vipransh-verma)
-- **Portfolio**: [Portfolio](https://)
+- **Portfolio**: [Portfolio](https://vipransh.netlify.app)
 
 Let's connect and explore the possibilities of working together. Feel free to reach out with any questions or collaboration opportunities. Thank you for visiting my profile! 🌟
